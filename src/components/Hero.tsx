@@ -19,7 +19,6 @@ const Hero: React.FC = () => {
         <div className="max-w-3xl">
           {/* Subtitle */}
           <p className="text-amber-300 text-xs sm:text-sm font-medium tracking-[0.2em] uppercase mb-4 sm:mb-6 animate-fade-in-up drop-shadow-md">
-            Curated from India's Master Craftsmen
           </p>
           
           {/* Main Headline */}
